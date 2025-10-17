@@ -13,7 +13,7 @@ html, body{
 }
 
 main{
-    background: url(fundo-madeira.jpg) no-repeat;
+    background: url(/imagens/fundo-madeira.jpg) no-repeat;
     background-size: cover;
     background-position: top center;
 }
@@ -28,7 +28,7 @@ main{
 }
 
 #phone2{
-    background: url(frame-iphone.png) no-repeat;
+    background: url(imagens/frame-iphone.png) no-repeat;
     background-size: cover;
     background-position: center;
     width: 289px;
@@ -63,8 +63,7 @@ ul{
 }
 
 a > img{
-
-    border-radius: 50%;
+    border-radius: 100%;
     box-sizing: border-box;
     margin: 10px;
     width: 60px;
